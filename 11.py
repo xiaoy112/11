@@ -9,5 +9,3 @@ def focus_timer(minutes):
         time.sleep(1)
         seconds -= 1
     print("Time's up!")
-
-focus_timer(25)  # 设置专注时长为25分钟
